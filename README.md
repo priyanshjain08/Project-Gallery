@@ -26,12 +26,6 @@ Dynamic-Gallery/
 └── img4.png
 ```
 
-## 🚀 How to Run
-
-1. Clone the repository.
-2. Make sure all image files are in the same folder as `index.html`.
-3. Open `index.html` in your browser.
-
-That's it! 🎉
+Site is live at https://priyanshjain08.github.io/Project-Gallery/
 
 
