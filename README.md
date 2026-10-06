@@ -26,6 +26,6 @@ Dynamic-Gallery/
 └── img4.png
 ```
 
-Site is live at https://priyanshjain08.github.io/Project-Gallery/
+https://priyanshjain08.github.io/Project-Gallery/
 
 
